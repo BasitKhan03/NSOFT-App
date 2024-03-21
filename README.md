@@ -9,5 +9,5 @@ NSOFT is a mobile application for employee management and attendance built using
 ## Dashboard
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/11b22992-54d7-42f2-a704-8b8eaf0e5f81" width="250" />
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/1156143c-79a4-452c-8c6e-36c99bc949db" width="250" />
-
+<img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/75641209-fab9-46e9-aafd-5ae3bf5c9521" width="250" />
 
