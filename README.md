@@ -2,6 +2,7 @@
 
 NSOFT is a mobile application developed for efficient employee management and attendance tracking. Built using React Native, it offers seamless compatibility for both iOS and Android platforms.
 
+
 ## Features
 
 * **Employee Management:** Add, remove, and update employee profiles.
@@ -17,6 +18,17 @@ NSOFT is a mobile application developed for efficient employee management and at
 * **User-Friendly Interface:** Intuitive design for smooth navigation and usability.
 * **Cross-Platform Compatibility:** Works seamlessly on both iOS and Android devices.
 * **Real-time Updates:** Instantaneous updates for accurate attendance and leave records.
+
+
+## Installation
+To get started with NSOFT, follow these steps:
+
+1) Clone this repository to your local machine.
+2) Navigate to the project directory.
+3) Install dependencies using npm install or yarn install.
+4) Run the app on your preferred platform using npm start or yarn start.
+
+
 
 ## Login
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/dd0a6e1f-3c52-4a1e-a408-31cba5976ce6" width="232" />
