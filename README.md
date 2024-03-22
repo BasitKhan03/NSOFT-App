@@ -71,6 +71,10 @@ The "Profile" section allows users to conveniently access and review their perso
 
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/269d18e8-5766-45e8-a2bf-d595af03da46" width="250" />
 
+### Settings
+The "Settings" section offers users the flexibility to customize their account preferences according to their needs. Users can securely change their password and select their preferred app language, choosing between 'English' and 'Arabic' for optimal accessibility and usability.
+
+<img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/86bc3669-2fc0-465d-914b-06d147ed91bb" width="250" />
 
 
 
