@@ -96,6 +96,12 @@ The "Leave Request" feature enables users to conveniently submit leave requests 
 
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/85a86187-20f7-492d-9cd0-9c420a86536a" width="250" />
 
+### Leave Approval (LM & HR)
+The "Leave Approval" feature enables Line Managers to efficiently review and manage leave requests submitted by their team members, either approving or rejecting them as necessary while HR personnel have oversight of leave requests across the organization.
+
+<img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/89e8472d-24ce-486f-a28f-2b9917625b04" width="250" />
+<img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/0412e3b6-184e-4b8b-8036-9a669e3c451f" width="250" />
+
 ### Drawer Menu
 The "Drawer Menu" provides users with quick access to various sections of the app, facilitating seamless navigation. Additionally, users can switch between app languages for the current session and logout from their account with ease.
 
