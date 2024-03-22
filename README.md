@@ -1,6 +1,6 @@
 # NSOFT-App
 
-NSOFT is a mobile application for employee management and attendance built using React Native for both iOS & Android
+NSOFT is a mobile application developed for efficient employee management and attendance tracking. Built using React Native, it offers seamless compatibility for both iOS and Android platforms.
 
 ## Login
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/dd0a6e1f-3c52-4a1e-a408-31cba5976ce6" width="232" />
