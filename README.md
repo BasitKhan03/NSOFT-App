@@ -29,6 +29,14 @@ To get started with NSOFT, follow these steps:
 4) Run the app on your preferred platform using `npm start` or `yarn start`.
 
 
+## Usage
+Once the app is installed, users can:
+
+* Log in according to their user type (Employee, Line Manager, HR).
+* View their attendance records and submit leave requests (Employees).
+* Review and approve leave requests for their team members (Line Managers).
+* Manage employee profiles, attendance, and leave requests (HR).
+
 
 ## Login
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/dd0a6e1f-3c52-4a1e-a408-31cba5976ce6" width="232" />
