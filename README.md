@@ -5,7 +5,6 @@ NSOFT is a mobile application developed for efficient employee management and at
 ## Features
 
 * **Employee Management:** Add, remove, and update employee profiles.
-
 * **Attendance Tracking:** Keep track of employee attendance efficiently.
 
 * **Leave Management:** Manage employee leave requests and approvals.
