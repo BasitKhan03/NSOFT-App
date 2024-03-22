@@ -76,5 +76,16 @@ The "Settings" section offers users the flexibility to customize their account p
 
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/86bc3669-2fc0-465d-914b-06d147ed91bb" width="250" />
 
+### Manual Punch
+The "Manual Punch" feature enables users to conveniently mark their attendance by clocking in and out directly within the app. Each punch records the time and location of the user, ensuring accurate attendance tracking and compliance. Ideal for situations where traditional methods may not be feasible, such as remote work or on-site visits.
+
+<img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/8d276e3a-df5e-447f-85d4-cf5d82c1a984" width="250" />
+
+### Monthly Timesheet
+The "Monthly Timesheet" feature empowers employees to effortlessly track their monthly attendance and generate detailed reports for reference. Additionally, Line Managers gain visibility into their team members' timesheets, facilitating efficient team management. HR personnel have access to organization-wide timesheets, enabling comprehensive oversight and analysis of employee attendance patterns.
+
+<img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/bb7d7550-ffb5-4c79-92c5-c3512d9cd135" width="250" />
+
+
 
 
