@@ -102,10 +102,22 @@ The "Leave Approval" feature enables Line Managers to efficiently review and man
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/89e8472d-24ce-486f-a28f-2b9917625b04" width="250" />
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/0412e3b6-184e-4b8b-8036-9a669e3c451f" width="249" />
 
-### Organization Statistics
+### Leave Management (HR)
+
+Using the "Leave Management" feature, HR personnel have the capability to add and manage different types of leaves, along with associated leave reasons, within the system.
+
+<img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/1f0b4799-fed9-4a2d-b827-4f31bab97fbf" width="250" />
+<img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/248cc755-2a9e-4396-b6db-218d04f8ca3e" width="250" />
+
+### Organization Statistics (HR)
 HR personnel can access comprehensive statistics regarding the organization, including the number of registered employees, active employees, and attendance metrics using the "Organization Statistics" feature.
 
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/94be4c62-b1e1-4840-85c8-443c6c894a5c" width="250" />
+
+### Organization Attendance (HR)
+Through "Organization Attendance" screen, HR personnel can efficiently track and analyze attendance metrics, including present, absent, and leave percentages, for all employees within the designated time period. 
+
+<img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/fd2eebdf-079c-4baf-8f99-a071b525b8aa" width="250" />
 
 ### Drawer Menu
 The "Drawer Menu" provides users with quick access to various sections of the app, facilitating seamless navigation. Additionally, users can switch between app languages for the current session and logout from their account with ease.
