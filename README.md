@@ -86,6 +86,15 @@ The "Monthly Timesheet" feature empowers employees to effortlessly track their m
 
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/bb7d7550-ffb5-4c79-92c5-c3512d9cd135" width="250" />
 
+### Attendance Pre-Adjustment
+Employees can view their pre-adjusted attendance records, ensuring transparency and accuracy. Line Managers have the authority to mark pre-adjusted attendance for their team members, facilitating efficient management. HR personnel possess the capability to adjust attendance records for any employee across the organization, streamlining administrative processes.
+
+<img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/0aafbc29-36c3-49ac-b3c7-8bcb5a600c2b" width="250" />
+
+### Leave Request
+The "Leave Request" feature enables users to conveniently submit leave requests directly within the app. Users can specify the type of leave, duration, and any additional notes. Line Managers can review and approve leave requests for their team members, while HR personnel oversee and manage leave requests organization-wide.
+
+<img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/85a86187-20f7-492d-9cd0-9c420a86536a" width="250" />
 
 
 
