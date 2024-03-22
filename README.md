@@ -45,16 +45,19 @@ We welcome contributions from the community. If you'd like to contribute to `NSO
 For any questions or issues, please open an issue on GitHub.
 
 
-## Login
+## App Preview
+Take a glimpse into NSOFT with these screenshots showcasing its intuitive interface and powerful features. Explore the various screens to see how NSOFT simplifies employee management, attendance tracking, and leave management for organizations of all sizes.
+
+### Login
 Welcome to NSOFT! The login screen allows users to securely access the app based on their designated user type: Employee, Line Manager, or HR. Simply enter your credentials to get started and gain access to the features tailored to your role.
 
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/dd0a6e1f-3c52-4a1e-a408-31cba5976ce6" width="232" />
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/9b1ff923-4f3b-4677-a0c8-8c4662c2d4d3" width="240" />
 
-## Dashboard
+### Dashboard
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/11b22992-54d7-42f2-a704-8b8eaf0e5f81" width="250" />
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/1156143c-79a4-452c-8c6e-36c99bc949db" width="250" />
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/75641209-fab9-46e9-aafd-5ae3bf5c9521" width="250" />
 
-## My Team
+### My Team
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/f36adb47-21f3-4149-a12a-634b9a273dca" width="250" />
