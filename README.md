@@ -17,6 +17,7 @@ NSOFT is a mobile application developed for efficient employee management and at
 * **User-Friendly Interface:** Intuitive design for smooth navigation and usability.
 * **Cross-Platform Compatibility:** Works seamlessly on both iOS and Android devices.
 * **Real-time Updates:** Instantaneous updates for accurate attendance and leave records.
+* **Multilingual Support:** Supports multiple languages, including English and Arabic, enhancing accessibility and usability for diverse user bases.
 
 
 ## Installation
