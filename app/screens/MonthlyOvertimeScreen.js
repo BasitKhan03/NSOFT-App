@@ -47,7 +47,8 @@ export default function MonthlyOvertimeScreen({ navigation, userToken, setUserTo
         { label: t('report.2020'), value: '2020' },
         { label: t('report.2021'), value: '2021' },
         { label: t('report.2022'), value: '2022' },
-        { label: t('report.2023'), value: '2023' }
+        { label: t('report.2023'), value: '2023' },
+        { label: t('report.2024'), value: '2024' }
     ];
 
     const months = [
@@ -336,7 +337,7 @@ export default function MonthlyOvertimeScreen({ navigation, userToken, setUserTo
                                 </View>
                             </Modal>
 
-                            {Platform.OS === 'android' ? (userData.accessGroup === 2 || userData.accessGroup === 1) && (<View style={{ width: '87%', height: 38, marginVertical: 8, borderColor: 'gray', borderWidth: 0.3, borderRadius: 4, alignSelf: 'center', justifyContent: 'center' }}>
+                            {(userData.accessGroup === 2 || userData.accessGroup === 1) && (Platform.OS === 'android' ? (<View style={{ width: '87%', height: 38, marginVertical: 8, borderColor: 'gray', borderWidth: 0.3, borderRadius: 4, alignSelf: 'center', justifyContent: 'center' }}>
                                 <View style={{ flexDirection: 'row' }}>
                                     <Picker
                                         mode='dropdown'
@@ -372,7 +373,7 @@ export default function MonthlyOvertimeScreen({ navigation, userToken, setUserTo
                                             <Text style={{ fontSize: 13.2, color: 'gray' }}>{selectedEmployee === '' ? t('report.select-an-employee') : (teamNames.find(employee => employee.EmployeeId === selectedEmployee)?.full_name + ' (' + teamNames.find(employee => employee.EmployeeId === selectedEmployee)?.AccessGroup + ')')}</Text>
                                             {error.employeeErr && <MaterialIcons style={{ right: 15, top: 2 }} name="error-outline" size={15} color="red" />}
                                         </View>)}
-                                </TouchableOpacity>)}
+                                </TouchableOpacity>))}
 
 
                             <Modal style={{ flex: 0, top: '32.5%', width: '80%', height: '30%', alignSelf: 'center', elevation: 30, borderRadius: 15, backgroundColor: 'white', shadowColor: 'gray', shadowOffset: { width: 0, height: 2 }, shadowOpacity: 0.25, shadowRadius: 3.84, }} animationType="fade" transparent={true} visible={yearModal} onBackdropPress={toggleYearModal} onRequestClose={toggleYearModal} onBackButtonPress={toggleYearModal}>

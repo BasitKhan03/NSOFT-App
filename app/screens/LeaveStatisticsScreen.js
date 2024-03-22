@@ -264,7 +264,7 @@ export default function LeaveStatisticsScreen({ navigation, userToken, setUserTo
                                 </View>
                             </Modal>
 
-                            {Platform.OS === 'android' ? (userData.accessGroup === 2 || userData.accessGroup === 1) && (<View style={{ width: '87%', height: 38, marginVertical: 8, borderColor: 'gray', borderWidth: 0.3, borderRadius: 4, alignSelf: 'center', justifyContent: 'center' }}>
+                            {(userData.accessGroup === 2 || userData.accessGroup === 1) && (Platform.OS === 'android' ? (<View style={{ width: '87%', height: 38, marginVertical: 8, borderColor: 'gray', borderWidth: 0.3, borderRadius: 4, alignSelf: 'center', justifyContent: 'center' }}>
                                 <View style={{ flexDirection: 'row' }}>
                                     <Picker
                                         mode='dropdown'
@@ -290,7 +290,7 @@ export default function LeaveStatisticsScreen({ navigation, userToken, setUserTo
                                 </View>
                             </View>)
                                 :
-                                (<TouchableOpacity style={{ width: '87%', height: 38, marginVertical: 4, borderColor: 'gray', borderWidth: 0.3, borderRadius: 4, alignSelf: 'center', justifyContent: 'center', paddingLeft: selectedLanguage === 'ar' ? 0 : 20, paddingRight: selectedLanguage === 'ar' ? 20 : 0, marginTop: 10 }} onPress={toggleTeamModal}>
+                                ((userData.accessGroup === 2 || userData.accessGroup === 1) && <TouchableOpacity style={{ width: '87%', height: 38, marginVertical: 4, borderColor: 'gray', borderWidth: 0.3, borderRadius: 4, alignSelf: 'center', justifyContent: 'center', paddingLeft: selectedLanguage === 'ar' ? 0 : 20, paddingRight: selectedLanguage === 'ar' ? 20 : 0, marginTop: 10 }} onPress={toggleTeamModal}>
                                     {selectedLanguage === 'ar' ? (<View style={{ flexDirection: 'row', width: '100%', justifyContent: error.employeeErr ? 'space-between' : 'flex-end' }}>
                                         {error.employeeErr && <MaterialIcons style={{ left: 17, top: 2 }} name="error-outline" size={14} color="red" />}
                                         <Text style={{ fontSize: 13.5, color: 'gray' }}>{selectedEmployee === '' ? t('report.select-an-employee') : (teamNames.find(employee => employee.EmployeeId === selectedEmployee)?.full_name + ' (' + teamNames.find(employee => employee.EmployeeId === selectedEmployee)?.AccessGroup + ')')}</Text>
@@ -300,7 +300,7 @@ export default function LeaveStatisticsScreen({ navigation, userToken, setUserTo
                                             <Text style={{ fontSize: 13.2, color: 'gray' }}>{selectedEmployee === '' ? t('report.select-an-employee') : (teamNames.find(employee => employee.EmployeeId === selectedEmployee)?.full_name + ' (' + teamNames.find(employee => employee.EmployeeId === selectedEmployee)?.AccessGroup + ')')}</Text>
                                             {error.employeeErr && <MaterialIcons style={{ right: 15, top: 2 }} name="error-outline" size={14} color="red" />}
                                         </View>)}
-                                </TouchableOpacity>)}
+                                </TouchableOpacity>))}
 
 
                             <Modal style={{ flex: 0, top: '31%', width: '80%', height: '30%', alignSelf: 'center', elevation: 30, borderRadius: 15, backgroundColor: 'white', shadowColor: 'gray', shadowOffset: { width: 0, height: 2 }, shadowOpacity: 0.25, shadowRadius: 3.84, }} animationType="fade" transparent={true} visible={yearModal} onBackdropPress={toggleYearModal} onRequestClose={toggleYearModal} onBackButtonPress={toggleYearModal}>

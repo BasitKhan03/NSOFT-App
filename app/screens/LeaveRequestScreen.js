@@ -204,7 +204,7 @@ export default function LeaveRequestScreen({ navigation, userToken, setUserToken
                     toDate: convertISODateToDateTime(convertISODateToFormattedDate(dateTo)),
                     leaveReasonId: reason,
                     reasonDetail: detail === '' || detail === ' ' ? null : detail,
-                    attachment: (document !== null || document.assets !== null) ? document.assets[0].uri : null
+                    attachment: document !== null ? document.assets[0].uri : null
                 };
 
                 const axiosConfig = {
