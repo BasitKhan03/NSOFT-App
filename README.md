@@ -55,6 +55,8 @@ Welcome to NSOFT! The login screen allows users to securely access the app based
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/9b1ff923-4f3b-4677-a0c8-8c4662c2d4d3" width="240" />
 
 ### Dashboard
+The dashboard provides a comprehensive overview of attendance and leave summaries through intuitive charts and graphs. Track attendance trends, monitor leave balances, and gain valuable insights into workforce management at a glance.
+
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/11b22992-54d7-42f2-a704-8b8eaf0e5f81" width="250" />
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/1156143c-79a4-452c-8c6e-36c99bc949db" width="250" />
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/75641209-fab9-46e9-aafd-5ae3bf5c9521" width="250" />
