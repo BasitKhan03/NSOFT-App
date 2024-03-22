@@ -38,6 +38,14 @@ Once the app is installed, users can:
 * Manage employee profiles, attendance, and leave requests (HR).
 
 
+## Contributing
+We welcome contributions from the community. If you'd like to contribute to `NSOFT`, please fork the repository and submit a pull request with your changes.
+
+
+## Support
+For any questions or issues, please open an issue on GitHub.
+
+
 ## Login
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/dd0a6e1f-3c52-4a1e-a408-31cba5976ce6" width="232" />
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/9b1ff923-4f3b-4677-a0c8-8c4662c2d4d3" width="240" />
