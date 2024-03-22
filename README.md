@@ -96,5 +96,10 @@ The "Leave Request" feature enables users to conveniently submit leave requests 
 
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/85a86187-20f7-492d-9cd0-9c420a86536a" width="250" />
 
+### Drawer Menu
+The "Drawer Menu" provides users with quick access to various sections of the app, facilitating seamless navigation. Additionally, users can switch between app languages for the current session and logout from their account with ease.
+
+<img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/dcd95735-5554-4e0d-995d-abfb691f80f7" width="250" />
+
 
 
