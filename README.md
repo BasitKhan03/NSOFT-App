@@ -61,5 +61,16 @@ The dashboard provides a comprehensive overview of attendance and leave summarie
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/1156143c-79a4-452c-8c6e-36c99bc949db" width="250" />
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/75641209-fab9-46e9-aafd-5ae3bf5c9521" width="250" />
 
-### My Team
+### My Team (LM)
+The "My Team" section is exclusively designed for Line Managers, enabling them to efficiently manage their team's attendance and performance. Access insightful statistics and summaries for team members' attendance and leaves.
+
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/f36adb47-21f3-4149-a12a-634b9a273dca" width="250" />
+
+### Profile
+The "Profile" section allows users to conveniently access and review their personal information. While users can view their details, they have the flexibility to update their profile picture as desired.
+
+<img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/269d18e8-5766-45e8-a2bf-d595af03da46" width="250" />
+
+
+
+
