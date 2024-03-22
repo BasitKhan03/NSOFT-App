@@ -123,5 +123,3 @@ The "Drawer Menu" provides users with quick access to various sections of the ap
 
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/dcd95735-5554-4e0d-995d-abfb691f80f7" width="250" />
 
-
-
