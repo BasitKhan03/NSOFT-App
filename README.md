@@ -102,6 +102,11 @@ The "Leave Approval" feature enables Line Managers to efficiently review and man
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/89e8472d-24ce-486f-a28f-2b9917625b04" width="250" />
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/0412e3b6-184e-4b8b-8036-9a669e3c451f" width="249" />
 
+### Organization Statistics
+HR personnel can access comprehensive statistics regarding the organization, including the number of registered employees, active employees, and attendance metrics using the "Organization Statistics" feature.
+
+<img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/94be4c62-b1e1-4840-85c8-443c6c894a5c" width="250" />
+
 ### Drawer Menu
 The "Drawer Menu" provides users with quick access to various sections of the app, facilitating seamless navigation. Additionally, users can switch between app languages for the current session and logout from their account with ease.
 
