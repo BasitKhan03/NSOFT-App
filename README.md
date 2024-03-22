@@ -25,8 +25,8 @@ To get started with NSOFT, follow these steps:
 
 1) Clone this repository to your local machine.
 2) Navigate to the project directory.
-3) Install dependencies using npm install or yarn install.
-4) Run the app on your preferred platform using npm start or yarn start.
+3) Install dependencies using `npm install` or `yarn install`.
+4) Run the app on your preferred platform using `npm start` or `yarn start`.
 
 
 
