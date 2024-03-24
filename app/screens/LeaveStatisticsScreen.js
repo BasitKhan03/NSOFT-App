@@ -49,8 +49,10 @@ export default function LeaveStatisticsScreen({ navigation, userToken, setUserTo
     const to = Math.min((page + 1) * itemsPerPage, balance.length);
 
     function formatCustomDate(inputDate) {
+        const previousDate = new Date(inputDate);
+        previousDate.setDate(previousDate.getDate() - 1);
         const options = { month: 'short', day: '2-digit' };
-        return inputDate.toLocaleString('en-US', options);
+        return previousDate.toLocaleString('en-US', options);
     };
 
     useEffect(() => {
@@ -121,6 +123,7 @@ export default function LeaveStatisticsScreen({ navigation, userToken, setUserTo
             try {
                 setInitial(true);
                 setLoading(true);
+                setPage(0);
 
                 const axiosConfig = {
                     headers: {
@@ -170,6 +173,7 @@ export default function LeaveStatisticsScreen({ navigation, userToken, setUserTo
             try {
                 setInitial(true);
                 setLoading(true);
+                setPage(0);
 
                 const axiosConfig = {
                     headers: {

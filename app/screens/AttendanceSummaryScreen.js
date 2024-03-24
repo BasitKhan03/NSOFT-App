@@ -107,6 +107,7 @@ export default function AttendanceSummaryScreen({ navigation, userToken, setUser
             try {
                 setSummary([]);
                 setLoading(true);
+                setPage(0);
 
                 const axiosConfig = {
                     headers: {

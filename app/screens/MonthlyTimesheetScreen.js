@@ -147,6 +147,7 @@ export default function MonthlyTimesheetScreen({ navigation, userToken, setUserT
             try {
                 setAttendance([]);
                 setLoading(true);
+                setPage(0);
 
                 const axiosConfig = {
                     headers: {
@@ -189,6 +190,7 @@ export default function MonthlyTimesheetScreen({ navigation, userToken, setUserT
             try {
                 setAttendance([]);
                 setLoading(true);
+                setPage(0);
 
                 const axiosConfig = {
                     headers: {

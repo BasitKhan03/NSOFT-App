@@ -174,6 +174,7 @@ export default function MonthlyOvertimeScreen({ navigation, userToken, setUserTo
             try {
                 setAttendance([]);
                 setLoading(true);
+                setPage(0);
 
                 const axiosConfig = {
                     headers: {
@@ -216,6 +217,7 @@ export default function MonthlyOvertimeScreen({ navigation, userToken, setUserTo
             try {
                 setAttendance([]);
                 setLoading(true);
+                setPage(0);
 
                 const axiosConfig = {
                     headers: {

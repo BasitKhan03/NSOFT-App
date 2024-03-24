@@ -108,6 +108,7 @@ export default function OrganizationAttendanceScreen({ navigation, userToken, se
             try {
                 setAttendance([]);
                 setLoading(true);
+                setPage(0);
 
                 const axiosConfig = {
                     headers: {

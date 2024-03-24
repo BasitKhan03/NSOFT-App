@@ -563,7 +563,7 @@ export default function LeaveRequestScreen({ navigation, userToken, setUserToken
 
                         <View style={{ backgroundColor: 'white', marginTop: 16, paddingTop: 10, paddingBottom: 25, alignSelf: 'center', borderRadius: 5, elevation: 1.5, shadowColor: 'gray', width: '100%' }}>
 
-                            {Platform.OS !== 'android' ? (<View>
+                            {Platform.OS === 'android' ? (<View>
                                 {selectedLanguage !== 'ar' ? (<View style={{ flexDirection: 'row', justifyContent: 'space-evenly', alignItems: 'center', paddingHorizontal: 5 }}>
                                     <TouchableOpacity style={{ flexDirection: 'row', alignItems: 'center', width: '42%', height: 38, marginTop: 15, borderColor: 'gray', borderWidth: 0.35, borderRadius: 4, justifyContent: 'flex-start' }} onPress={() => {
                                         showDatepicker1();

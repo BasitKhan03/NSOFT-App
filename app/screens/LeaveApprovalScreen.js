@@ -72,6 +72,7 @@ export default function LeaveApprovalScreen({ navigation, userToken, setUserToke
         const fetchData = async () => {
             try {
                 setPageLoading(true);
+                setPage(0);
 
                 const axiosConfig = {
                     headers: {
