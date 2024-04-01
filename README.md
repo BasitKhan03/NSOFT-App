@@ -47,78 +47,78 @@ For any questions or issues, please open an issue on GitHub.
 ## App Preview
 Take a glimpse into NSOFT with these screenshots showcasing its intuitive interface and powerful features. Explore the various screens to see how NSOFT simplifies employee management, attendance tracking, and leave management for organizations of all sizes.
 
-### Login
+### - Login
 Welcome to NSOFT! The login screen allows users to securely access the app based on their designated user type: Employee, Line Manager, or HR. Simply enter your credentials to get started and gain access to the features tailored to your role.
 
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/dd0a6e1f-3c52-4a1e-a408-31cba5976ce6" width="232" />
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/9b1ff923-4f3b-4677-a0c8-8c4662c2d4d3" width="240" />
 
-### Dashboard
+### - Dashboard
 The dashboard provides a comprehensive overview of attendance and leave summaries through intuitive charts and graphs. Track attendance trends, monitor leave balances, and gain valuable insights into workforce management at a glance.
 
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/11b22992-54d7-42f2-a704-8b8eaf0e5f81" width="250" />
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/1156143c-79a4-452c-8c6e-36c99bc949db" width="250" />
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/75641209-fab9-46e9-aafd-5ae3bf5c9521" width="250" />
 
-### My Team (LM)
+### - My Team (LM)
 The "My Team" section is exclusively designed for Line Managers, enabling them to efficiently manage their team's attendance and performance. Access insightful statistics and summaries for team members' attendance and leaves.
 
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/f36adb47-21f3-4149-a12a-634b9a273dca" width="250" />
 
-### Profile
+### - Profile
 The "Profile" section allows users to conveniently access and review their personal information. While users can view their details, they have the flexibility to update their profile picture as desired.
 
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/269d18e8-5766-45e8-a2bf-d595af03da46" width="250" />
 
-### Settings
+### - Settings
 The "Settings" section offers users the flexibility to customize their account preferences according to their needs. Users can securely change their password and select their preferred app language, choosing between 'English' and 'Arabic' for optimal accessibility and usability.
 
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/86bc3669-2fc0-465d-914b-06d147ed91bb" width="250" />
 
-### Manual Punch
+### - Manual Punch
 The "Manual Punch" feature enables users to conveniently mark their attendance by clocking in and out directly within the app. Each punch records the time and location of the user, ensuring accurate attendance tracking and compliance. Ideal for situations where traditional methods may not be feasible, such as remote work or on-site visits.
 
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/8d276e3a-df5e-447f-85d4-cf5d82c1a984" width="250" />
 
-### Monthly Timesheet
+### - Monthly Timesheet
 The "Monthly Timesheet" feature empowers employees to effortlessly track their monthly attendance and generate detailed reports for reference. Additionally, Line Managers gain visibility into their team members' timesheets, facilitating efficient team management. HR personnel have access to organization-wide timesheets, enabling comprehensive oversight and analysis of employee attendance patterns.
 
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/bb7d7550-ffb5-4c79-92c5-c3512d9cd135" width="250" />
 
-### Attendance Pre-Adjustment
+### - Attendance Pre-Adjustment
 Employees can view their pre-adjusted attendance records, ensuring transparency and accuracy. Line Managers have the authority to mark pre-adjusted attendance for their team members, facilitating efficient management. HR personnel possess the capability to adjust attendance records for any employee across the organization, streamlining administrative processes.
 
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/0aafbc29-36c3-49ac-b3c7-8bcb5a600c2b" width="250" />
 
-### Leave Request
+### - Leave Request
 The "Leave Request" feature enables users to conveniently submit leave requests directly within the app. Users can specify the type of leave, duration, and any additional notes. Line Managers can review and approve leave requests for their team members, while HR personnel oversee and manage leave requests organization-wide.
 
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/85a86187-20f7-492d-9cd0-9c420a86536a" width="250" />
 
-### Leave Approval (LM & HR)
+### - Leave Approval (LM & HR)
 The "Leave Approval" feature enables Line Managers to efficiently review and manage leave requests submitted by their team members, either approving or rejecting them as necessary while HR personnel have oversight of leave requests across the organization.
 
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/89e8472d-24ce-486f-a28f-2b9917625b04" width="250" />
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/0412e3b6-184e-4b8b-8036-9a669e3c451f" width="249" />
 
-### Leave Management (HR)
+### - Leave Management (HR)
 
 Using the "Leave Management" feature, HR personnel have the capability to add and manage different types of leaves, along with associated leave reasons, within the system.
 
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/1f0b4799-fed9-4a2d-b827-4f31bab97fbf" width="250" />
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/248cc755-2a9e-4396-b6db-218d04f8ca3e" width="250" />
 
-### Organization Statistics (HR)
+### - Organization Statistics (HR)
 HR personnel can access comprehensive statistics regarding the organization, including the number of registered employees, active employees, and attendance metrics using the "Organization Statistics" feature.
 
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/94be4c62-b1e1-4840-85c8-443c6c894a5c" width="250" />
 
-### Organization Attendance (HR)
+### - Organization Attendance (HR)
 Through "Organization Attendance" screen, HR personnel can efficiently track and analyze attendance metrics, including present, absent, and leave percentages, for all employees within the designated time period. 
 
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/fd2eebdf-079c-4baf-8f99-a071b525b8aa" width="250" />
 
-### Drawer Menu
+### - Drawer Menu
 The "Drawer Menu" provides users with quick access to various sections of the app, facilitating seamless navigation. Additionally, users can switch between app languages for the current session and logout from their account with ease.
 
 <img src="https://github.com/BasitKhan03/NSOFT-App/assets/101899595/dcd95735-5554-4e0d-995d-abfb691f80f7" width="250" />
