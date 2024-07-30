@@ -37,7 +37,7 @@ Once the app is installed, users can:
 
 
 ## Contributing
-We welcome contributions from the community. If you'd like to contribute to `NSOFT`, please fork the repository and submit a pull request with your changes.
+We welcome contributions from the community. If you'd like to contribute to `NSOFT` , please fork the repository and submit a pull request with your changes.
 
 
 ## Support
